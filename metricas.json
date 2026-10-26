@@ -27,11 +27,21 @@
           "alcance": 1,
           "salvos": 0,
           "compartilhamentos": 0
+        },
+        "2026-11-02": {
+          "likes": 1,
+          "comentarios": 1,
+          "link": "https://www.instagram.com/p/De9tdD6GuuT/",
+          "publicado_em": "2026-10-26T16:27:32+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
         }
       }
     }
   ],
   "comentarios": {
-    "2026-11-01": {}
+    "2026-11-01": {},
+    "2026-11-02": {}
   }
 }
