@@ -137,12 +137,64 @@
           "compartilhamentos": 0
         }
       }
+    },
+    {
+      "data": "2026-10-30",
+      "seguidores": 3,
+      "posts": {
+        "2026-11-01": {
+          "likes": 1,
+          "comentarios": 1,
+          "link": "https://www.instagram.com/p/De7m09TASrx/",
+          "publicado_em": "2026-10-25T20:51:08+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
+        },
+        "2026-11-02": {
+          "likes": 2,
+          "comentarios": 1,
+          "link": "https://www.instagram.com/p/De9tdD6GuuT/",
+          "publicado_em": "2026-10-26T16:27:32+0000",
+          "alcance": 2,
+          "salvos": 0,
+          "compartilhamentos": 0
+        },
+        "2026-11-03": {
+          "likes": 1,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/DfANFmfoGgD/",
+          "publicado_em": "2026-10-27T15:42:26+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
+        },
+        "2026-11-04": {
+          "likes": 0,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/DfC233flsHv/",
+          "publicado_em": "2026-10-28T16:25:56+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
+        },
+        "2026-11-05": {
+          "likes": 0,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/DfFcrtBGsXu/",
+          "publicado_em": "2026-10-29T16:34:53+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
+        }
+      }
     }
   ],
   "comentarios": {
     "2026-11-01": {},
     "2026-11-02": {},
     "2026-11-03": {},
-    "2026-11-04": {}
+    "2026-11-04": {},
+    "2026-11-05": {}
   }
 }
