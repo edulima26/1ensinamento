@@ -1200,6 +1200,15 @@
           "alcance": 1,
           "salvos": 0,
           "compartilhamentos": 0
+        },
+        "2026-11-16": {
+          "likes": 0,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/DfiLjoBmNXL/",
+          "publicado_em": "2026-11-09T20:23:13+0000",
+          "alcance": 0,
+          "salvos": 0,
+          "compartilhamentos": 0
         }
       }
     }
@@ -1219,6 +1228,7 @@
     "2026-11-12": {},
     "2026-11-13": {},
     "2026-11-14": {},
-    "2026-11-15": {}
+    "2026-11-15": {},
+    "2026-11-16": {}
   }
 }
