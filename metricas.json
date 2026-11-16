@@ -2448,6 +2448,15 @@
           "alcance": 1,
           "salvos": 0,
           "compartilhamentos": 0
+        },
+        "2026-11-23": {
+          "likes": 0,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/Df0KYvvj_3C/",
+          "publicado_em": "2026-11-16T19:59:19+0000",
+          "alcance": 1,
+          "salvos": 0,
+          "compartilhamentos": 0
         }
       }
     }
@@ -2474,6 +2483,7 @@
     "2026-11-19": {},
     "2026-11-20": {},
     "2026-11-21": {},
-    "2026-11-22": {}
+    "2026-11-22": {},
+    "2026-11-23": {}
   }
 }
