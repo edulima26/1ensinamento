@@ -4137,6 +4137,15 @@
           "alcance": 1,
           "salvos": 0,
           "compartilhamentos": 0
+        },
+        "2026-11-30": {
+          "likes": 0,
+          "comentarios": 0,
+          "link": "https://www.instagram.com/p/DgGZBqHD0Y4/",
+          "publicado_em": "2026-11-23T21:53:34+0000",
+          "alcance": 0,
+          "salvos": 0,
+          "compartilhamentos": 0
         }
       }
     }
@@ -4170,6 +4179,7 @@
     "2026-11-26": {},
     "2026-11-27": {},
     "2026-11-28": {},
-    "2026-11-29": {}
+    "2026-11-29": {},
+    "2026-11-30": {}
   }
 }
